@@ -1,7 +1,7 @@
 #!/bin/bash
 # desc: CentOS initialization
 # 比如：curl https://resource.haier.net/download/init/Centos-init.sh | bash -s base
-# Author: hehan、zhenghanchao
+# Author: hehan
 # Mail: hehan@haier.com
 # Last Update: 2019.07.31
 #=================================================================
